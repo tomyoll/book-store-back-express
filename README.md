@@ -1,4 +1,4 @@
-# book-store-back-express
+# Book store express project
 For run this project, you must create .env file in project root and fill it like a env.example.
 
 Also you must run "npm i" for download project depends.
