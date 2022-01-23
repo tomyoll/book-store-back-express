@@ -5,6 +5,7 @@
 /.pnp
 .pnp.js
 .idea
+static/*
 
 package-lock.json
 # testing
